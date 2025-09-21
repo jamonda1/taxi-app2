@@ -1,4 +1,4 @@
-package com.taxi
+package com.seungjin.taxi
 
 import android.app.Application
 import com.facebook.react.PackageList

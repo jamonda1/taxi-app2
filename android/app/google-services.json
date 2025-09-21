@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493899911413",
+    "project_id": "call-taxi-bccea",
+    "storage_bucket": "call-taxi-bccea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493899911413:android:d981f808087347ee6c75bc",
+        "android_client_info": {
+          "package_name": "com.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "input your firebase key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493899911413:android:eca3044cdb6ea4cd6c75bc",
+        "android_client_info": {
+          "package_name": "com.seungjin.taxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "input your firebase key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
